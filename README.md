@@ -1,5 +1,9 @@
 # 💫 About Me:
-Soy un desarrollador de 20 años apasionado por la tecnología y originario de Colombia. Me especializo en crear soluciones web completas utilizando JavaScript, React, Node.js y Python, con experiencia tanto en frontend como backend. <br><br>Soy una persona adaptable, siempre dispuesta a aprender nuevas tecnologías y colaborar en equipo. Mi objetivo es contribuir a proyectos innovadores mientras continúo creciendo profesionalmente en áreas como inteligencia artificial y desarrollo móvil.<br>Busco oportunidades donde pueda aportar mi energía, creatividad y habilidades técnicas para crear productos que generen impacto positivo.
+Soy un desarrollador de software colombiano de 20 años, con experiencia en JavaScript, TypeScript, React, Node.js, Vue.js, Python y Java.
+He creado aplicaciones web y móviles centradas en rendimiento y experiencia de usuario.
+Cuento con un diplomado en Product Owner y Scrum Master, donde lideré un proyecto ágil como Product Owner.
+Me apasiona aprender nuevas tecnologías y participar en proyectos que generen impacto real.
+Me adapto fácilmente a nuevos entornos y tecnologías, disfruto trabajar en equipo, conocer nuevos compañeros y asumir retos que me permitan seguir creciendo profesionalmente.
 
 
 ## 🌐 Socials:
